@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "이 문서는 기본적인 Express 프로젝트의 구조와 설치 방법, 실행 방법을 안내합니다.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-Limjungwoo:Lim-jungwoo/NodeJs.git"
+  },
+  "author": "Lim-jungwoo",
+  "license": "MIT"
+}
